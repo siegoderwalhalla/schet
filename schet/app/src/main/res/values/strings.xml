@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minus_label">minus</string>
+    <string name="plus_label">plus</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="image_content_description">Picture</string>
+    <string name="button3">Button3</string>
+    <string name="animals">Animals</string>
+    <string name="dog">Dog</string>
+    <string name="raccoon">Raccoon</string>
+    <string name="cat">Cat</string>
+    <string name="add">Add to favourite</string>
+    <string name="show">Show favourite</string>
+    <string name="list_activity">List Activity</string>
+</resources>

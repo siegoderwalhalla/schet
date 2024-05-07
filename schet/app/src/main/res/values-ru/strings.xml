@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="minus_label">минус</string>
+    <string name="plus_label">плюс</string>
+    <string name="congratulations">Поздравляем</string>
+    <string name="image_content_description">Картинка</string>
+    <string name="button3">Кнопка3</string>
+    <string name="animals">Животные</string>
+    <string name="dog">Собака</string>
+    <string name="raccoon">Енот</string>
+    <string name="cat">Кот</string>
+    <string name="add">Добавить в избранное</string>
+    <string name="show">Show favourite</string>
+    <string name="list_activity">List Activity</string>
+</resources>
